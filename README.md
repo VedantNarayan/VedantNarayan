@@ -15,7 +15,7 @@
 <!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/vedant-narayan-5b865b325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/vedant.ide"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:veadntnarayan13@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:vedantnarayan13@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://vedantnarayan.github.io/resume/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 
 <img src="https://komarev.com/ghpvc/?username=VedantNarayan&style=flat&color=39d353&label=profile+views" alt="profile views">
