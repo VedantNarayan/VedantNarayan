@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Hardware / Electronics", "value": 88 },
+    { "label": "IoT & Embedded",        "value": 85 },
+    { "label": "CAD & 3D Design",       "value": 82 },
+    { "label": "Networking",            "value": 78 },
+    { "label": "C / C++",               "value": 82 },
+    { "label": "Python",                "value": 78 },
+    { "label": "Robotics & Control",    "value": 80 }
+  ]
+}

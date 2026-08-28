@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "SSDEjector",
+      "description": "Instant, zero-friction external SSD ejector, battery sleep-saver, and CoreAudio speaker router for macOS."
+    },
+    {
+      "repo": "ds4link",
+      "description": "Autonomous DualShock 4 motion aiming, 4-motor impulse haptics, and anti-drift deadzone daemon for macOS."
+    },
+    {
+      "repo": "Monastery-360",
+      "description": "Interactive 360-degree virtual tour and immersive cultural heritage exploration web application."
+    },
+    {
+      "repo": "resume",
+      "description": "Interactive, modern dark-mode developer resume and portfolio showcasing hardware & software projects."
+    }
+  ]
+}
